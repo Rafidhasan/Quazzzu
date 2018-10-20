@@ -1,2 +1,3 @@
 # Quazzzu
-A parralax webpage with materials.css
+
+A Materialize.css based website, has a bit of javascript(ES6) & CSS.
